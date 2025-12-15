@@ -396,4 +396,11 @@ p {
     transform: translateY(-3px);
     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
 }
+.btn-lift-glow {
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.btn-lift-glow:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 0.75rem 1.5rem rgba(13, 110, 253, 0.3);
+}
 /* end of style.css */
