@@ -1,7 +1,7 @@
 # Samantha Lapeña — Personal Portfolio (Final Project)
 
 **Course:** IT Elective 3  
-**Stack:** HTML5, CSS3 (Bootstrap 5 + custom CSS), JavaScript (vanilla), Git & GitHub
+**Stack:** HTML5, CSS3 (Bootstrap 5 + custom CSS), JavaScript, Git & GitHub
 
 ## Project Overview
 This repo contains a fully responsive personal portfolio website that acts as a digital resume and showcases projects, skills and contact info. Built with semantic HTML5, Bootstrap 5 (CDN), and a custom `style.css` overriding the default Bootstrap look to provide an aesthetic, glassy design.
